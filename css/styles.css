@@ -1,0 +1,27 @@
+/* Header */
+.title-logo {
+    width: 20vw;
+    height: 20vh;
+}
+
+.title-super {
+    font-size: 60px;
+}
+
+/* Content */
+body {
+    font-family: "Open Sans", arial, sans-serif;
+    color: #2d3c49;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+.text-muted {
+    color: #7d97ad;
+}
+
+.link {
+    cursor:pointer;
+}
